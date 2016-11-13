@@ -26,4 +26,4 @@ Feature engineering process is interesting but aslo addictive, see "additional f
 Training: including XBG training and SKlearn API training, and also CVs.
 
 --------------------------------------------------------------------------------------------------------
-Rank: 154 / 1391 ( 12% )
+Rank: 154 / 1391 ( 11% )
