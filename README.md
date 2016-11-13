@@ -24,3 +24,6 @@ Note that the data is too large to load on a single PC (especially categorical d
 Feature engineering process is interesting but aslo addictive, see "additional featrues" and some descriptive ones (for instance, number of non-NAN values in a row, max, min, mean of a row, number of distinct operations in a row ect.) in the first three files.
 
 Training: including XBG training and SKlearn API training, and also CVs.
+
+--------------------------------------------------------------------------------------------------------
+Rank: 154 / 1391 ( 12% )
